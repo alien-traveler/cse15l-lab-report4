@@ -34,9 +34,9 @@ This person needs to deal with the situation when bracket is not out of range fi
 ---
 
 ## Snippet 3
-**Implementation in `MarkdownParseTest.java`:**
 This snippet should produce "https://ucsd-cse15l-w22.github.io/"
 
+**Implementation in `MarkdownParseTest.java`:**
 ![image](image/test3.png)
 
 **My result:**
