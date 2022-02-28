@@ -1,6 +1,9 @@
 # Lab Report 4
 Will Luo, A16989083, jil232@ucsd.edu, CSE 15L
 
+My Markdown-parse link: https://github.com/alien-traveler/markdown-parse 
+My reviewed repo link: https://github.com/TheZenMasterz/markdown-parse 
+
 ## Snippet 1
 This snippet should produce "`google.com", "google.com", "ucsd.edu"
 
